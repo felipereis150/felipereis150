@@ -6,7 +6,11 @@ Atualmente, trabalho como analista FP&A e já fiz entregas relevantes para a min
 
 Também de ser apaixonado por videogames, livros de todo tipo e ciência em geral. Sou um grande entusiasta da tecnologia, desde cedo, me interesso por novas ferramentas e tecnologias e gosto de me manter atualizado sobre tudo relacionado a tecnologia.
 
-![Felipe Reis Stats](https://github-readme-stats.vercel.app/api?username=felipereis150&icons=true&theme=tokyonight)
+![Felipe Reis Stats](https://github-readme-stats.vercel.app/api?username=felipereis150&icons=true&theme=transparent)
+
+### Meus projetos pessoais:
+
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=felipereis150&repo=world_cup)](https://github.com/felipereis150/world_cup)
 
 ## Tecnologias que utilizo:
 
