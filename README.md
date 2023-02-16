@@ -1,18 +1,18 @@
-### Oi! Eu sou o Felipe Reis👋
+### Hi! I'm Felipe Reis👋
 
-Estou me formando em Administração pela Universidade Federal do Rio de Janeiro (UFRJ) e estou no último período do curso de Análise e Desenvolvimento de Sistemas na Estácio. Durante meu estágio na Globo, adquiri experiência trabalhando com grandes volumes de dados e entregando análises para lideranças e clientes internos.
+I am a data analyst with experience in handling large volume of data and optimizing routines to drive business results. My academic background in business from UFRJ, combined with my current course in Systems Analysis and Development at Estácio, has equipped me with a solid foundation in technology, statistics, and financial mathematics.
 
-Atualmente, trabalho como analista FP&A e já fiz entregas relevantes para a minha equipe e clientes internos como construir o orçamento dos Programas do Esporte e construir dashboards para visualização de dados com PowerBI, além de automatizar processos e análises com Python e Pandas.
+During my tenure at Globo, I gained experience working with large volumes of data and automating processes to enable teams to focus on analytical deliveries and more structured data. As an FP&A analyst, I have delivered significant results for my team and internal clients, including building the Sports Programs budget, creating data visualization dashboards using PowerBI, and automating processes and analysis using Python and Pandas.
 
-Também de ser apaixonado por videogames, livros de todo tipo e ciência em geral. Sou um grande entusiasta da tecnologia, desde cedo, me interesso por novas ferramentas e tecnologias e gosto de me manter atualizado sobre tudo relacionado a tecnologia.
+My passion for video games, books of all kinds, and science, in general, makes me a great technology enthusiast, always eager to explore new tools and technologies to keep myself updated and bring more value to the organizations I work with.
 
 ![Felipe Reis Stats](https://github-readme-stats.vercel.app/api?username=felipereis150&icons=true&theme=transparent)
 
-### Meus projetos pessoais:
+### My personal projects:
 
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=felipereis150&repo=world_cup)](https://github.com/felipereis150/world_cup)
 
-## Tecnologias que utilizo:
+## Technologies I use:
 
 <div>
     <img src="https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=blue" alt="Python">
@@ -25,7 +25,7 @@ Também de ser apaixonado por videogames, livros de todo tipo e ciência em gera
     <img src="https://img.shields.io/badge/Microsoft_SharePoint-0078D4?style=for-the-badge&logo=microsoft-sharepoint&logoColor=white" alt="Sharepoint">
 </div>
 
-## Contato:
+## Contact:
 
 <div>
     <a href="https://www.linkedin.com/in/felipereisdesouza/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="Linkedin"></a>
